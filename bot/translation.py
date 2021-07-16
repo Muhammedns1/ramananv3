@@ -19,7 +19,7 @@ class Translation(object):
 ⚠️Channel: @filmcity7
 
 For More Details Click Help Button Below..
-@CrazyBotsz
+@filmcity7
 </i>"""    
     
     HELP_TEXT = """
@@ -52,12 +52,12 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@filmcity7
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://github.com/Muhammedns1/ramananv3">Muhammed_NS</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
