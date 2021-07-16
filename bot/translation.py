@@ -5,9 +5,18 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i>Am a advanced filter bot
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+♂️ᴩʀᴇꜱꜱ 🎖️ꜱᴛᴀʀᴛ🎖️ ᴛᴏ ʀᴇᴄᴇɪᴠᴇ yᴏᴜʀ ᴍᴏᴠɪᴇ♂️
+.
+.
+♂️ സിനിമ ലഭിക്കാൻ 🎖️ꜱᴛᴀʀᴛ🎖️ കൊടുക്കുക♂️
+.
+.
+⚠️ എന്നെ മറ്റുള്ള ഗ്രൂപ്പിൽ ചേർക്കാമെന്നു വിചാരിക്കണ്ട😜
+
+⚠️ Group: @filmogram7
+⚠️Channel: @filmcity7
 
 For More Details Click Help Button Below..
 @CrazyBotsz
